@@ -7,24 +7,5 @@
 
 # Question 2:  How does the median age of individuals affect their hospitalization admission and total deaths?
 
-** Question 2 Findings: The scatter plot shows that median age positively correlates with hospitalization and ICU admissions as well as with total number of deaths. Essentially this is describing, the older you are, the more likely you are to be hospitalized from COVID-19.
-
-Standard Deviation:
-ICU Patients (per million)    20.135231
-Median Age                    12.667968
---------------
-Standard Deviation Error:
-ICU Patients (per million)    0.083947
-Median Age                    0.052815
-
-** As a measure of how accurate this data is, you can see that the standard deviation between the median age and ICU patients is quite high. This suggests that the data points are more spread out from the mean which can mean the data is not very trustworthy. However, the small standard error suggests confidence in the estimated standard deviation.
----------
-* The same goes for the total deaths from COVID-19. The graph is showing, the older you are, the more likely you are to die from COVID-19. Again, you can see that the standard deviation between the total deaths is quite high.
-* Standard Deviation:
-Total Deaths (per million)    1239.813693
-Median Age                      12.667968
---------------
-Standard Deviation Error:
-Total Deaths (per million)    5.168987
-Median Age                    0.052815
-* Again, this suggests that the data points are more spread out from the mean which might mean our data is very unreliable. Now we have a moderate standard error. This could mean that there is substantial variability in our data.
+* Question 2 Findings: The scatter plot shows that median age positively correlates with hospitalization and ICU admissions as well as with total number of deaths. Essentially this is describing, the older you are, the more likely you are to be hospitalized from COVID-19. As a measure of how accurate this data is, you can see that the standard deviation between the median age and ICU patients is quite high. This suggests that the data points are more spread out from the mean which can mean the data is not very trustworthy. However, the small standard error suggests confidence in the estimated standard deviation.
+* The same goes for the total deaths from COVID-19. The graph is showing, the older you are, the more likely you are to die from COVID-19. Again, you can see that the standard deviation between the total deaths is quite high. Again, this suggests that the data points are more spread out from the mean which might mean our data is very unreliable. Now we have a moderate standard error. This could mean that there is substantial variability in our data.
