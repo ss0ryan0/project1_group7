@@ -1,5 +1,5 @@
 # Group 7 - Project 1
-# # Statistical Summary
+## Statistical Summary
 
 # Question 1: How well do vaccines prevent total ICU and hospital patients?
 
