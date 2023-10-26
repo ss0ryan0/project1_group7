@@ -13,6 +13,8 @@
 
 # Question 3: How do Smoking Habits and Elderly Rates affect Hospitalization and ICU Numbers?
 
+* For Smokers and Age, the x-axis of smokers and age is just the share of the population of people who smoke or are old
+
 * Most of the countries have high vaccination rates, making vaccines contribute the least to changes in the curve once they have been introduced.
 * As the amount of Male and female smokers increase, the greater potential for a greater amount of hospitalization. However, female smokers of any amount seem to be more likely to have higher hospitalization rates. It can be inferred that pregnancy and breast-cancer could be potential hypotheses. This wide potential for hospitalization can explain the high Standard Deviation for both male and female smokers.
 * As the amount of people aged over 65 and 70 increase, the greater potential for a greater amount of hospitalization. However, when Aged Over 70 is 0, that shows the highest concentration of the various amount of Hospitalized patients, possibly due to age-related sickness. 
